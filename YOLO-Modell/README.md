@@ -1,0 +1,1 @@
+Dieser Ordner ist dafür zuständig die gelabelten Bilder passend zum Trainig der KI zu ordnen, eine YAML zu erstellen und das KI Modell dann schließlich auf die Kennzeichen zu trainieren
