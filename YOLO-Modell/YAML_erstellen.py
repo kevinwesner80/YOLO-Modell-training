@@ -3,10 +3,7 @@ from pathlib import Path
 # Klassennamen definieren (ANPASSEN!)
 # Die Reihenfolge bestimmt die Klassen-IDs (Index = ID).
 # ------------------------------
-classes = ["prohibitory",
-            "danger",
-            "mandatory",
-            "other"]  # Beispiel; passe diese Liste an deine Klassen an!
+classes = ["Kennzeichen"]  # Beispiel; passe diese Liste an deine Klassen an!
 
 # ------------------------------
 # YAML-Inhalt zusammenstellen
