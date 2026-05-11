@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: yolo-modell
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: opencv-python>=4.13.0.92
+Requires-Dist: ultralytics>=8.4.41
+Requires-Dist: label-studio>=1.11.0
+
+Dieser Ordner ist dafür zuständig die gelabelten Bilder passend zum Trainig der KI zu ordnen, eine YAML zu erstellen und das KI Modell dann schließlich auf die Kennzeichen zu trainieren

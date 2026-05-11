@@ -1,0 +1,11 @@
+README.md
+YAML_erstellen.py
+datasplit.py
+main.py
+pyproject.toml
+train_modell.py
+yolo_modell.egg-info/PKG-INFO
+yolo_modell.egg-info/SOURCES.txt
+yolo_modell.egg-info/dependency_links.txt
+yolo_modell.egg-info/requires.txt
+yolo_modell.egg-info/top_level.txt

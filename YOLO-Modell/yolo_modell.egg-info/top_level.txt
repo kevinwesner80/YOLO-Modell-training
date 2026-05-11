@@ -1,0 +1,4 @@
+YAML_erstellen
+datasplit
+main
+train_modell

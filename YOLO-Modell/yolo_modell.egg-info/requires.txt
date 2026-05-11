@@ -1,0 +1,3 @@
+opencv-python>=4.13.0.92
+ultralytics>=8.4.41
+label-studio>=1.11.0
